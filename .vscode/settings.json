@@ -1,3 +1,5 @@
 {
-    "editor.wordWrap": true
+    "editor.wordWrap": true,
+    "editor.formatOnSave": true,
+
 }
